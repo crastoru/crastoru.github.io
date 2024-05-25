@@ -1,5 +1,7 @@
 theme: minima
 title: Ruth's Blog
+author:
+  name: Ruth Crasto
 description: My collected thoughts on various topics in machine learning.
 header_pages:
   - about.md
