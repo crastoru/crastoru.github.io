@@ -1,7 +1,6 @@
 theme: minima
-title: Ruth's blog
+title: Ruth's Blog
 description: My collected thoughts on various topics in machine learning.
 header_pages:
   - about.md
-  - articles.md
 show_excerpts: true
