@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
+theme: minima
 title: Ruth's blog
 description: My collected thoughts on various topics in machine learning.
+header_pages:
+  - about.md
+  - articles.md
+show_excerpts: false
