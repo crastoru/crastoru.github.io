@@ -1,4 +1,7 @@
-# Geospatial Position Encoders: A Deep Dive
+---
+layout: post
+title: Geospatial Position Encoders: A Deep Dive
+---
 
 An inductive bias in machine learning is a constraint on a model or its input features given some prior knowledge of the target task. As humans, we can recognize a bird whether it’s flying in the sky or perched in a tree. Moreover, we don’t need to examine every cloud in the sky or take in the entirety of the tree to know that we are looking at a bird and not something else. These biases in the vision process are encoded in convolution layers via two properties: 
 
