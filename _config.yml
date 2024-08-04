@@ -6,3 +6,5 @@ description: My collected notes on various topics in machine learning.
 header_pages:
   - about.md
 show_excerpts: true
+minima:
+  skin: classic
