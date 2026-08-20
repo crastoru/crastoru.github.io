@@ -1,5 +1,7 @@
 theme: minima
 title: Ruth's Blog
+kramdown:
+  math_engine: mathjax
 author:
   name: Ruth Crasto
 header_pages:
