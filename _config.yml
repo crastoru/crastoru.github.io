@@ -1,3 +1,13 @@
-theme: jekyll-theme-minimal
-title: Ruth's blog
-description: My collected thoughts on various topics in machine learning.
+theme: minima
+title: Ruth Crasto
+kramdown:
+  math_engine: mathjax
+author:
+  name: Ruth Crasto
+header_pages:
+  - about.md
+  - research.md
+  - blog.md
+show_excerpts: true
+minima:
+  skin: classic
