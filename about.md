@@ -13,3 +13,5 @@ I am a PhD student at McGill University / [Mila - Quebec AI Institute](https://m
 Prior to starting my PhD, I was employed at Microsoft for 5 years, first as a software engineer and later as an applied scientist. I primarily worked on ML models for satellite imagery and points-of-interest data. Before that, I received my undergraduate degree from the University of Toronto in Math and Computer Science.
 
 I grew up in the Greater Toronto Area and currently live in Montréal. If you are interested in my research or any of my blog posts, please do not hesitate to reach out -- I would love to hear from you!
+
+**E-mail**: rcrasto99 [at] gmail [dot] com
