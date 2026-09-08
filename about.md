@@ -14,4 +14,4 @@ Prior to starting my PhD, I was employed at Microsoft for 5 years, first as a so
 
 I grew up in the Greater Toronto Area and currently live in Montréal. If you are interested in my research or any of my blog posts, please do not hesitate to reach out -- I would love to hear from you!
 
-**E-mail**: rcrasto99 [at] gmail [dot] com
+**E-mail**: ruth [dot] crasto [at] mila [dot] quebec
